@@ -1,11 +1,8 @@
 # ResearchHub Backend 
 
-Backend service for a research directory platform that manages professors, graduate students, projects, publications, and department analytics.
-
----
 
 ## Overview
-This API powers a data‑rich view of academic research activity across departments. It models faculty, students, research areas, authorship, and projects, and exposes analytics endpoints for funding, publication trends, and staffing insights.
+Backend service for a research directory platform that manages professors, graduate students, projects, publications, and department analytics. It models faculty, students, research areas, authorship, and projects, and exposes analytics endpoints for funding, publication trends, and staffing insights.
 
 ---
 
