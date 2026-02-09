@@ -1,7 +1,6 @@
 # ResearchHub Backend 
 
 
-## Overview
 Backend service for a research directory platform that manages professors, graduate students, projects, publications, and department analytics. It models faculty, students, research areas, authorship, and projects, and exposes analytics endpoints for funding, publication trends, and staffing insights.
 
 ---
